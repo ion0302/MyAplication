@@ -1,0 +1,20 @@
+Informaţiile despre angajaţii unei companii sunt înregistrate într-o bază de date.
+Elaboraţi o bază de date, gestiunea căreia se va realiza dintr-o aplicaţie vizuală. În dependență de
+tematică se vor specifica criteriile de integritate pentru baza de date, administra obiecte ale bazei
+de date, stabili planul de întreținere a bazei de date și moduri de securizare a datelor din baza de
+date. Informațiile din baza de date se vor prelucra la solicitarea utilizatorului folosind meniuri,
+formulare și control-ere, ținând cont de următoarele funcţionalităţi:
+1) Înregistrează un nou angajat;
+2) Exclude informaţiile, ce corespund angajatului al cărei cod este introdus de la tastatură;
+3) Determină angajatul cel mai tânăr;
+4) Afişează la ecran lista angajaţilor de vârstă pensionară (57 ani împliniţi la femei şi 62-la
+bărbaţi ), ordonată ascendent, conform vârstei acestora;
+5) Determină salariul mediu lunar al bărbaţilor din departamentul, denumirea cărui este introdusă
+de la tastatură;
+6) Creează o tabelă, în care vor fi înregistrate datele despre femeile cu stagiul de muncă mai mic
+de 5 ani;
+7) Exportă într-un fișier MS Word sau MS Excel datele despre angajaţii născuţi în luna X;
+8) Determină numărul de angajaţi pentru codul profesiei introdusă de la tastatură.
+9) Creează o tabelă în care sunt afișate orele de lucru pentru fiecare lună a fiecărui angajat;
+10) Afișează top 3 cei mai buni lucrători a lunei. Afișarea la ecran a informațiilor acestora se va
+realiza prin intermediul rapoartelor.
